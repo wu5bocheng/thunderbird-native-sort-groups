@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.xpi
+*.zip
+failure-native.png
+WEBEXT-LINTER-CACHE/
+xpi-review-*/
