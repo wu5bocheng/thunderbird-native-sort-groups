@@ -1,0 +1,80 @@
+{
+  "addonName": {
+    "message": "Native Sortierung & Gruppen"
+  },
+  "addonDescription": {
+    "message": "Kombinieren Sie native Sortierfelder in gewählter Reihenfolge, mit optionaler mehrstufiger Gruppierung und Absenderdomains."
+  },
+  "toggleGrouping": {
+    "message": "Gruppierung umschalten"
+  },
+  "senderDomain": {
+    "message": "Absenderdomain"
+  },
+  "sortTooltip": {
+    "message": "Klicken fügt eine Sortierebene hinzu; erneutes Klicken entfernt sie. Mindestens ein Feld ist erforderlich."
+  },
+  "future": {
+    "message": "Zukünftig"
+  },
+  "today": {
+    "message": "Heute"
+  },
+  "yesterday": {
+    "message": "Gestern"
+  },
+  "week": {
+    "message": "Letzte 7 Tage"
+  },
+  "fortnight": {
+    "message": "Letzte 14 Tage"
+  },
+  "older": {
+    "message": "Älter"
+  },
+  "none": {
+    "message": "(Keine)"
+  },
+  "flagged": {
+    "message": "Markiert"
+  },
+  "unflagged": {
+    "message": "Nicht markiert"
+  },
+  "read": {
+    "message": "Gelesen"
+  },
+  "unread": {
+    "message": "Ungelesen"
+  },
+  "junk": {
+    "message": "Junk"
+  },
+  "notJunk": {
+    "message": "Kein Junk"
+  },
+  "attachments": {
+    "message": "Mit Anhängen"
+  },
+  "noAttachments": {
+    "message": "Ohne Anhänge"
+  },
+  "noTags": {
+    "message": "Keine Schlagwörter"
+  },
+  "unknownSource": {
+    "message": "Unbekannte Quelle"
+  },
+  "mailChanged": {
+    "message": "Nachrichten wurden geändert. Warten Sie auf die Aktualisierung der Gruppen und versuchen Sie es erneut."
+  },
+  "viewChanged": {
+    "message": "Die Ansicht wurde geändert. Wählen Sie die Nachrichten erneut aus."
+  },
+  "commandUnsupported": {
+    "message": "Dieser Befehl wird nicht unterstützt. Wechseln Sie zuerst zur nativen Themenansicht."
+  },
+  "interfaceUnsupported": {
+    "message": "Nicht unterstützte native Ansichtsschnittstelle: "
+  }
+}
