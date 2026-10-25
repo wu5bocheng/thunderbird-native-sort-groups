@@ -1,0 +1,33 @@
+{
+  "tool": "thunderbird/webext-linter",
+  "toolVersion": "2.5.1",
+  "toolCommit": "7802ee765fc3c86fb5baec5833a47092f6ef8d00",
+  "targetVersion": "158.0.2 (current cached release schema)",
+  "xpiVersion": "0.4.0",
+  "defaultValidation": {
+    "status": "blocked",
+    "rule": "experiment-not-allowed",
+    "reason": "Custom nativeGroups is not an unmodified published API draft. New custom Experiment submissions are temporarily not accepted."
+  },
+  "source": "https://github.com/thunderbird/webext-linter/blob/main/assets/registry.yaml",
+  "diagnosticOnly": {
+    "flag": "--allow-experiments",
+    "meaning": "Local code diagnostics only; this does not grant ATN acceptance.",
+    "errors": 0,
+    "warnings": 0,
+    "manualReviewStillRequired": true
+  },
+  "nativeTests": {
+    "version": "158.0.1",
+    "locales": [
+      "en-US",
+      "zh-CN (official language pack)"
+    ],
+    "result": "PASS",
+    "scope": "Isolated temporary profiles, synthetic local mail only"
+  },
+  "modelAndCatalogTests": {
+    "passed": 8,
+    "failed": 0
+  }
+}

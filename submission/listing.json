@@ -1,0 +1,56 @@
+{
+  "author": "wu5bocheng",
+  "homepage": "https://github.com/wu5bocheng/thunderbird-native-sort-groups",
+  "support_url": "https://github.com/wu5bocheng/thunderbird-native-sort-groups/issues",
+  "license": "MPL-2.0",
+  "suggested_categories": [
+    "Folder and Message Pane",
+    "Appearance and Customization"
+  ],
+  "locales": {
+    "en": {
+      "name": "Native Sort & Groups",
+      "summary": "Combine native sort fields in the order you choose, with optional nested grouping and sender domains.",
+      "description": "Add ordered multi-field sorting to the native message list. Open Sort, click fields in priority order (1, 2, 3…), then enable Grouped by Sort for nested collapsible groups. Leave it unchecked for a flat sorted list. New groups start collapsed. Click titles to use the native message summary; arrows expand groups and individual messages open in the native reader.\n\nCombine all 16 offered fields, including Sender domain. Business subdomains are grouped together, while Gmail and other public providers stay separate by full address. Domain categories follow their latest message. Settings are saved per folder.\n\nCommon read/star/tag/junk, copy/move, archive, delete and undo actions use native commands. Message-list drag moving and some thread-specific commands are unavailable in this adapter; switch to native threaded mode for those. Live IMAP disconnection/concurrency behavior has not been verified. Requires Thunderbird 158.x; tested 158.0.1.\n\nUses an Experiment API with unrestricted application access for native integration. Processes headers locally, stores folder sort preferences locally and makes no extension network requests. Preferences persist after uninstall. No telemetry, external AI, ad filtering or duplicate deletion. English, Simplified/Traditional Chinese, German, French, Spanish and Japanese strings follow the application language. English and Simplified Chinese were tested end to end; other translations welcome review."
+    },
+    "zh_CN": {
+      "name": "原生排序与分组",
+      "summary": "按选择顺序组合原生排序字段，可选多级分组，支持按发件域名分类。",
+      "description": "在原生邮件列表中按选择顺序组合排序字段，菜单编号为 1、2、3……。通过排序菜单勾选「按排序分组」显示多层分组；取消则仅平铺排序。新分组默认折叠，点击标题显示原生右侧摘要，点击箭头展开，单封邮件使用原生阅读窗格。\n\n支持全部 16 个字段，包括发件域名。企业子域名合并，Gmail 等公共邮箱按完整地址区分；来源按其最新邮件时间排列。每个文件夹独立保存设置。\n\n常用已读、星标、标签、垃圾邮件、复制、移动、归档、删除和撤销使用原生命令。列表拖拽移动及部分线程专属命令未开放，可切换原生话题模式操作。真实 IMAP 断线和并发尚未验证。仅支持 Thunderbird 158.x，实际测试 158.0.1。\n\n为实现原生集成，使用具有完整应用访问权限的 Experiment API。本地处理邮件头并保存文件夹排序偏好；偏好在卸载后保留。不发起外部网络请求，无遥测、外部 AI、广告识别和邮件去重。新增文本支持中英等七种语言，自动跟随应用语言；英文和简体中文已通过完整测试，其他翻译欢迎校对。"
+    },
+    "zh_TW": {
+      "name": "原生排序與分組",
+      "summary": "依選擇順序組合原生排序欄位，可選多層分組，支援按寄件網域分類。"
+    },
+    "de": {
+      "name": "Native Sortierung & Gruppen",
+      "summary": "Kombinieren Sie native Sortierfelder in gewählter Reihenfolge, mit optionaler mehrstufiger Gruppierung und Absenderdomains."
+    },
+    "fr": {
+      "name": "Tri et groupes natifs",
+      "summary": "Combinez les critères de tri natifs dans l’ordre choisi, avec regroupement imbriqué facultatif et domaines des expéditeurs."
+    },
+    "es": {
+      "name": "Ordenación y grupos nativos",
+      "summary": "Combina criterios de ordenación nativos en el orden elegido, con agrupación anidada opcional y dominios de remitentes."
+    },
+    "ja": {
+      "name": "ネイティブ並べ替えとグループ",
+      "summary": "選んだ順序で標準の並べ替え項目を組み合わせます。多段階のグループ化と差出人ドメインに対応。"
+    }
+  },
+  "screenshots": [
+    {
+      "file": "preview-native.png",
+      "caption_en": "Date and sender-domain groups share Thunderbird’s native message summary. Synthetic messages only."
+    },
+    {
+      "file": "preview-multilevel.png",
+      "caption_en": "Four native group levels: sender domain, date, read state and star. Grouping can be switched off independently."
+    },
+    {
+      "file": "preview-native-zh-CN.png",
+      "caption_en": "The same native summary with Thunderbird’s official Simplified Chinese language pack."
+    }
+  ]
+}
