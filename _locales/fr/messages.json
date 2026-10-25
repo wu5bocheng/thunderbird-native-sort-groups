@@ -1,0 +1,80 @@
+{
+  "addonName": {
+    "message": "Tri et groupes natifs"
+  },
+  "addonDescription": {
+    "message": "Combinez les critères de tri natifs dans l’ordre choisi, avec regroupement imbriqué facultatif et domaines des expéditeurs."
+  },
+  "toggleGrouping": {
+    "message": "Activer ou désactiver le regroupement"
+  },
+  "senderDomain": {
+    "message": "Domaine de l’expéditeur"
+  },
+  "sortTooltip": {
+    "message": "Cliquez pour ajouter un niveau de tri, puis à nouveau pour le retirer. Au moins un critère est requis."
+  },
+  "future": {
+    "message": "À venir"
+  },
+  "today": {
+    "message": "Aujourd’hui"
+  },
+  "yesterday": {
+    "message": "Hier"
+  },
+  "week": {
+    "message": "7 derniers jours"
+  },
+  "fortnight": {
+    "message": "14 derniers jours"
+  },
+  "older": {
+    "message": "Plus anciens"
+  },
+  "none": {
+    "message": "(Aucun)"
+  },
+  "flagged": {
+    "message": "Suivi"
+  },
+  "unflagged": {
+    "message": "Non suivi"
+  },
+  "read": {
+    "message": "Lu"
+  },
+  "unread": {
+    "message": "Non lu"
+  },
+  "junk": {
+    "message": "Indésirable"
+  },
+  "notJunk": {
+    "message": "Non indésirable"
+  },
+  "attachments": {
+    "message": "Avec pièces jointes"
+  },
+  "noAttachments": {
+    "message": "Sans pièce jointe"
+  },
+  "noTags": {
+    "message": "Sans étiquette"
+  },
+  "unknownSource": {
+    "message": "Source inconnue"
+  },
+  "mailChanged": {
+    "message": "Les messages ont changé. Attendez l’actualisation des groupes et réessayez."
+  },
+  "viewChanged": {
+    "message": "La vue a changé. Sélectionnez à nouveau les messages."
+  },
+  "commandUnsupported": {
+    "message": "Cette commande n’est pas prise en charge. Passez d’abord à l’affichage natif par discussions."
+  },
+  "interfaceUnsupported": {
+    "message": "Interface de vue native non prise en charge : "
+  }
+}
