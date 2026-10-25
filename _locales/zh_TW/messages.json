@@ -1,0 +1,80 @@
+{
+  "addonName": {
+    "message": "原生排序與分組"
+  },
+  "addonDescription": {
+    "message": "依選擇順序組合原生排序欄位，可選多層分組，支援按寄件網域分類。"
+  },
+  "toggleGrouping": {
+    "message": "切換依排序分組"
+  },
+  "senderDomain": {
+    "message": "寄件網域"
+  },
+  "sortTooltip": {
+    "message": "依點擊順序新增排序層級；再次點擊移除。至少保留一個欄位。"
+  },
+  "future": {
+    "message": "未來"
+  },
+  "today": {
+    "message": "今天"
+  },
+  "yesterday": {
+    "message": "昨天"
+  },
+  "week": {
+    "message": "過去一週"
+  },
+  "fortnight": {
+    "message": "過去兩週"
+  },
+  "older": {
+    "message": "更早"
+  },
+  "none": {
+    "message": "（無）"
+  },
+  "flagged": {
+    "message": "有星號"
+  },
+  "unflagged": {
+    "message": "無星號"
+  },
+  "read": {
+    "message": "已讀"
+  },
+  "unread": {
+    "message": "未讀"
+  },
+  "junk": {
+    "message": "垃圾郵件"
+  },
+  "notJunk": {
+    "message": "非垃圾郵件"
+  },
+  "attachments": {
+    "message": "有附件"
+  },
+  "noAttachments": {
+    "message": "無附件"
+  },
+  "noTags": {
+    "message": "無標籤"
+  },
+  "unknownSource": {
+    "message": "未知來源"
+  },
+  "mailChanged": {
+    "message": "郵件已變更，請等待分組重新整理後重試。"
+  },
+  "viewChanged": {
+    "message": "檢視已變更，請重新選取郵件。"
+  },
+  "commandUnsupported": {
+    "message": "此命令尚未支援，請先切換至原生討論串排序。"
+  },
+  "interfaceUnsupported": {
+    "message": "尚未支援的原生檢視介面："
+  }
+}
