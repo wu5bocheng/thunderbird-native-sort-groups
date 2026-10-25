@@ -1,0 +1,80 @@
+{
+  "addonName": {
+    "message": "ネイティブ並べ替えとグループ"
+  },
+  "addonDescription": {
+    "message": "選んだ順序で標準の並べ替え項目を組み合わせます。多段階のグループ化と差出人ドメインに対応。"
+  },
+  "toggleGrouping": {
+    "message": "グループ化を切り替え"
+  },
+  "senderDomain": {
+    "message": "差出人ドメイン"
+  },
+  "sortTooltip": {
+    "message": "クリックした順に並べ替え階層を追加します。再度クリックすると削除します。最低1項目が必要です。"
+  },
+  "future": {
+    "message": "未来"
+  },
+  "today": {
+    "message": "今日"
+  },
+  "yesterday": {
+    "message": "昨日"
+  },
+  "week": {
+    "message": "過去7日間"
+  },
+  "fortnight": {
+    "message": "過去14日間"
+  },
+  "older": {
+    "message": "それ以前"
+  },
+  "none": {
+    "message": "（なし）"
+  },
+  "flagged": {
+    "message": "スターあり"
+  },
+  "unflagged": {
+    "message": "スターなし"
+  },
+  "read": {
+    "message": "既読"
+  },
+  "unread": {
+    "message": "未読"
+  },
+  "junk": {
+    "message": "迷惑メール"
+  },
+  "notJunk": {
+    "message": "迷惑メールではない"
+  },
+  "attachments": {
+    "message": "添付あり"
+  },
+  "noAttachments": {
+    "message": "添付なし"
+  },
+  "noTags": {
+    "message": "タグなし"
+  },
+  "unknownSource": {
+    "message": "不明な差出人"
+  },
+  "mailChanged": {
+    "message": "メッセージが変更されました。グループの更新を待って再試行してください。"
+  },
+  "viewChanged": {
+    "message": "表示が変更されました。メッセージを選択し直してください。"
+  },
+  "commandUnsupported": {
+    "message": "この操作は未対応です。先に標準のスレッド表示に切り替えてください。"
+  },
+  "interfaceUnsupported": {
+    "message": "未対応の標準表示インターフェース: "
+  }
+}
