@@ -1,0 +1,80 @@
+{
+  "addonName": {
+    "message": "Native Sort & Groups"
+  },
+  "addonDescription": {
+    "message": "Combine native sort fields in the order you choose, with optional nested grouping and sender domains."
+  },
+  "toggleGrouping": {
+    "message": "Toggle grouped sorting"
+  },
+  "senderDomain": {
+    "message": "Sender domain"
+  },
+  "sortTooltip": {
+    "message": "Click to append a sort level; click again to remove it. At least one field is required."
+  },
+  "future": {
+    "message": "Future"
+  },
+  "today": {
+    "message": "Today"
+  },
+  "yesterday": {
+    "message": "Yesterday"
+  },
+  "week": {
+    "message": "Last 7 days"
+  },
+  "fortnight": {
+    "message": "Last 14 days"
+  },
+  "older": {
+    "message": "Older"
+  },
+  "none": {
+    "message": "(None)"
+  },
+  "flagged": {
+    "message": "Starred"
+  },
+  "unflagged": {
+    "message": "Not starred"
+  },
+  "read": {
+    "message": "Read"
+  },
+  "unread": {
+    "message": "Unread"
+  },
+  "junk": {
+    "message": "Junk"
+  },
+  "notJunk": {
+    "message": "Not junk"
+  },
+  "attachments": {
+    "message": "Has attachments"
+  },
+  "noAttachments": {
+    "message": "No attachments"
+  },
+  "noTags": {
+    "message": "No tags"
+  },
+  "unknownSource": {
+    "message": "Unknown source"
+  },
+  "mailChanged": {
+    "message": "Messages have changed. Wait for the groups to refresh and try again."
+  },
+  "viewChanged": {
+    "message": "The view has changed. Select the messages again."
+  },
+  "commandUnsupported": {
+    "message": "This command is not supported in grouped sorting. Switch to native threaded sorting first."
+  },
+  "interfaceUnsupported": {
+    "message": "Unsupported native view interface: "
+  }
+}
