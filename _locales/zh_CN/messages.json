@@ -1,0 +1,80 @@
+{
+  "addonName": {
+    "message": "原生排序与分组"
+  },
+  "addonDescription": {
+    "message": "按选择顺序组合原生排序字段，可选多级分组，支持按发件域名分类。"
+  },
+  "toggleGrouping": {
+    "message": "切换按排序分组"
+  },
+  "senderDomain": {
+    "message": "发件域名"
+  },
+  "sortTooltip": {
+    "message": "按点击顺序追加排序层级；再次点击移除。至少保留一个字段。"
+  },
+  "future": {
+    "message": "未来"
+  },
+  "today": {
+    "message": "今天"
+  },
+  "yesterday": {
+    "message": "昨天"
+  },
+  "week": {
+    "message": "过去一周"
+  },
+  "fortnight": {
+    "message": "过去两周"
+  },
+  "older": {
+    "message": "更早"
+  },
+  "none": {
+    "message": "（无）"
+  },
+  "flagged": {
+    "message": "有星标"
+  },
+  "unflagged": {
+    "message": "无星标"
+  },
+  "read": {
+    "message": "已读"
+  },
+  "unread": {
+    "message": "未读"
+  },
+  "junk": {
+    "message": "垃圾邮件"
+  },
+  "notJunk": {
+    "message": "非垃圾邮件"
+  },
+  "attachments": {
+    "message": "有附件"
+  },
+  "noAttachments": {
+    "message": "无附件"
+  },
+  "noTags": {
+    "message": "无标签"
+  },
+  "unknownSource": {
+    "message": "未知来源"
+  },
+  "mailChanged": {
+    "message": "邮件已变化，请等待分组刷新后重试。"
+  },
+  "viewChanged": {
+    "message": "视图已变化，请重新选择邮件。"
+  },
+  "commandUnsupported": {
+    "message": "此命令尚未适配，请先切换到原生按话题排序。"
+  },
+  "interfaceUnsupported": {
+    "message": "尚未适配的原生视图接口："
+  }
+}
