@@ -1,0 +1,80 @@
+{
+  "addonName": {
+    "message": "Ordenación y grupos nativos"
+  },
+  "addonDescription": {
+    "message": "Combina criterios de ordenación nativos en el orden elegido, con agrupación anidada opcional y dominios de remitentes."
+  },
+  "toggleGrouping": {
+    "message": "Alternar agrupación"
+  },
+  "senderDomain": {
+    "message": "Dominio del remitente"
+  },
+  "sortTooltip": {
+    "message": "Haz clic para añadir un nivel de ordenación; vuelve a hacer clic para quitarlo. Se requiere al menos un criterio."
+  },
+  "future": {
+    "message": "Futuro"
+  },
+  "today": {
+    "message": "Hoy"
+  },
+  "yesterday": {
+    "message": "Ayer"
+  },
+  "week": {
+    "message": "Últimos 7 días"
+  },
+  "fortnight": {
+    "message": "Últimos 14 días"
+  },
+  "older": {
+    "message": "Anteriores"
+  },
+  "none": {
+    "message": "(Ninguno)"
+  },
+  "flagged": {
+    "message": "Destacado"
+  },
+  "unflagged": {
+    "message": "Sin destacar"
+  },
+  "read": {
+    "message": "Leído"
+  },
+  "unread": {
+    "message": "No leído"
+  },
+  "junk": {
+    "message": "Correo basura"
+  },
+  "notJunk": {
+    "message": "No es basura"
+  },
+  "attachments": {
+    "message": "Con adjuntos"
+  },
+  "noAttachments": {
+    "message": "Sin adjuntos"
+  },
+  "noTags": {
+    "message": "Sin etiquetas"
+  },
+  "unknownSource": {
+    "message": "Origen desconocido"
+  },
+  "mailChanged": {
+    "message": "Los mensajes han cambiado. Espera a que se actualicen los grupos e inténtalo de nuevo."
+  },
+  "viewChanged": {
+    "message": "La vista ha cambiado. Selecciona los mensajes de nuevo."
+  },
+  "commandUnsupported": {
+    "message": "Este comando no está disponible. Cambia primero a la vista nativa por conversaciones."
+  },
+  "interfaceUnsupported": {
+    "message": "Interfaz de vista nativa no compatible: "
+  }
+}
